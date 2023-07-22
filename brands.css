@@ -39,7 +39,7 @@ body {
 }
 
 .social-icon {
-  color: #fff;
+  color: #09F;
 }
 
 /* Buttons
@@ -53,7 +53,7 @@ button {
   font-size: 1rem;
   font-weight: 500;
   border-radius: 5px;
-  border: dashed white 2px;
+  border: dashed #09F 2px;
   text-decoration: none;
   color: white !important;
   word-wrap: break-word;
